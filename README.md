@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there:
+
   I am Boning ZHANG, right now a master student in Chinese University of HongKong(Shenzhen). I am currently learning Federated Learning and Deep Learning. Welcome to my Github!
   You can reach me by email: berniezhang15@gmail.com.
